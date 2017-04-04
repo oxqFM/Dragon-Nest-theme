@@ -1017,11 +1017,9 @@ span.discriminator {
     color: rgba(255, 255, 255, 0) !important;
 }
 .user-popout .header {
-    background: #680000 url(https://i.imgur.com/LmIdYxO.jpg);
-    background-size: 124%;
+    background:  url(https://i.imgur.com/kN3PLc2.png);
+    background-size: 123%;
     background-repeat: no-repeat;
-    background-position-y: 30%;
-    background-position-x: -232%;
 }
 .user-popout .avatar-wrapper .avatar-popout {
     background-color: transparent;
